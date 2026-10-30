@@ -1,0 +1,1603 @@
+{
+ "subset": {
+  "size": 71,
+  "caps": {
+   "tables": 20,
+   "charts": 14,
+   "forms": 8,
+   "headings": 8,
+   "layout": 8,
+   "text": 6,
+   "document": 3,
+   "images-diagrams": 4,
+   "lists": 2
+  },
+  "rule": "complete samples with image, evenly spaced per family"
+ },
+ "arms": {
+  "pymupdf-text": {
+   "summary": {
+    "overall": {
+     "n": 71,
+     "passed": 0,
+     "rate": 0.0
+    },
+    "by_family": {
+     "charts": {
+      "n": 14,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "document": {
+      "n": 3,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "forms": {
+      "n": 8,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "headings": {
+      "n": 8,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "images-diagrams": {
+      "n": 4,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "layout": {
+      "n": 8,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables": {
+      "n": 20,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "text": {
+      "n": 6,
+      "passed": 0,
+      "rate": 0.0
+     }
+    },
+    "by_rule": {
+     "charts-bars-and-histograms": {
+      "n": 2,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "charts-dual-axis-and-combo-charts": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "charts-gantt-and-sankey-charts": {
+      "n": 2,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "charts-labels": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "charts-line-charts": {
+      "n": 2,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "charts-scatter-and-error-bars": {
+      "n": 4,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "charts-stacked-bars-and-waterfalls": {
+      "n": 2,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "diagrams-geographic-maps": {
+      "n": 3,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "forms-blanks-inside-sentences": {
+      "n": 2,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "forms-checklists": {
+      "n": 2,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "forms-fill-ins": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "forms-forms-and-key-value-regions": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "forms-printed-buttons-and-placeholders": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "forms-tables-inside-forms": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "headings-numbered-section-headings": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "headings-recognising-ambiguous-headings": {
+      "n": 6,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "headings-stacked-headings": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "images-logos": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "layout-block-boundaries": {
+      "n": 2,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "layout-block-classes": {
+      "n": 2,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "layout-ignoring-and-rejecting": {
+      "n": 2,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "layout-pleading-line-numbers": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "layout-slide-furniture": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-accounting-number-formats": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-bands-inside-the-grid": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-blank-and-spacer-rows": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-bold-and-italic-inside-tables": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-bottom-edge-totals-and-islands": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-color-as-the-value": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-cross-page-tables": {
+      "n": 3,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-empty-pre-printed-grids": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-header-wrap-vs-real-tier": {
+      "n": 2,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-marks-and-symbols-in-cells": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-multi-row-header-tiers": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-nested-tables": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-record-groups-and-multi-line-cells": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-rotated-and-diagonal-content": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-row-label-hierarchy": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-sec-period-tiers": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-side-by-side-mini-tables": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-struck-and-replaced-values": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-titles-banners-captions": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-total-and-subtotal-rows": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "text-iconography-and-symbols": {
+      "n": 2,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "text-margin-banners": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "text-overlapping-text": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "text-redacted-text": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "text-watermarks": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     }
+    }
+   },
+   "samples": [
+    {
+     "sample": "charts-bars-and-histograms::catastrophe-review-2025_p4",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "charts-bars-and-histograms::goal cards with progress bars",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "charts-dual-axis-and-combo-charts::industrial-group-financial-report-2024_p15",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "charts-gantt-and-sankey-charts::Sample (constructed) \u2014 `make_gantt`",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "charts-gantt-and-sankey-charts::material-flows-2020_p4",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "charts-labels::mobility-survey-2024_p13",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "charts-line-charts::energy-outlook-2025_p20",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "charts-line-charts::health-workforce-2024_p45",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "charts-scatter-and-error-bars::Sample (constructed) \u2014 `make_scatter`",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "charts-scatter-and-error-bars::ac8b3538-en_p131",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "charts-scatter-and-error-bars::db242_p2",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "charts-scatter-and-error-bars::health-profile-europe-2024_p105",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "charts-stacked-bars-and-waterfalls::renewables-outlook-2025_p24",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "charts-stacked-bars-and-waterfalls::stacked bars with an annotation column",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "tables-cross-page-tables::a cell cut by the page break",
+     "family": "document",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "tables-cross-page-tables::a two-column comparison table continued from the previous page",
+     "family": "document",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "tables-cross-page-tables::dt2",
+     "family": "document",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "forms-blanks-inside-sentences::blanks inside bulleted sentences",
+     "family": "forms",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "forms-blanks-inside-sentences::captions printed under the line",
+     "family": "forms",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: '6. Did you and the other witness(es) sign this paper in the presence of the decedent? Ans. [blank]'; missing tokens: ['6.', 'Ans.', 'Did', '[blank]', 'and', 'decedent?']",
+     "error": null
+    },
+    {
+     "sample": "forms-checklists::a filing checklist",
+     "family": "forms",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: 'PC420 | 0116'; missing tokens: ['0116', 'PC420', '|']",
+     "error": null
+    },
+    {
+     "sample": "forms-checklists::nine checklists in a grid",
+     "family": "forms",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "forms-fill-ins::spreadsheet errors as printed values",
+     "family": "forms",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "forms-forms-and-key-value-regions::2linebug",
+     "family": "forms",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "forms-printed-buttons-and-placeholders::a web page printed to paper",
+     "family": "forms",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: '2/13/26, 11:17 AM'; missing tokens: ['11:17', '2/13/26,', 'AM']",
+     "error": null
+    },
+    {
+     "sample": "forms-tables-inside-forms::a self-certification form built from grids",
+     "family": "forms",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "headings-numbered-section-headings::a paragraph number on its own line",
+     "family": "headings",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: 'DAMAGES'; missing tokens: ['DAMAGES']",
+     "error": null
+    },
+    {
+     "sample": "headings-recognising-ambiguous-headings::document titles and company lines 2",
+     "family": "headings",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: 'BORVIKA LLC'; missing tokens: ['BORVIKA', 'LLC']",
+     "error": null
+    },
+    {
+     "sample": "headings-recognising-ambiguous-headings::repeated item labels 1",
+     "family": "headings",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: 'INTERROGATORY NO. 8:'; missing tokens: ['8:', 'INTERROGATORY', 'NO.']",
+     "error": null
+    },
+    {
+     "sample": "headings-recognising-ambiguous-headings::running headers and decorative marks 1",
+     "family": "headings",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: 'Consolidated Financial Statements'; missing tokens: ['Consolidated', 'Financial', 'Statements']",
+     "error": null
+    },
+    {
+     "sample": "headings-recognising-ambiguous-headings::standalone subheads 2",
+     "family": "headings",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: '\u2026primarily as a result of increased utilisation of wholesale credit protection vehicles, which has now been curtailed.'; missing tokens: ['a', 'as', 'been', 'credit', 'curtailed.', 'has']",
+     "error": null
+    },
+    {
+     "sample": "headings-recognising-ambiguous-headings::standalone subheads 4",
+     "family": "headings",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: '\u2026related Disclosures have been issued but not yet endorsed by the UK authorities. We will continue to monitor new disclosure requirements and update our disclosures as part of the TCFD reporting where relevant.'; missing tokens: ['Disclosures', 'TCFD', 'UK', 'We', 'and', 'as']",
+     "error": null
+    },
+    {
+     "sample": "headings-recognising-ambiguous-headings::table captions and bands 5",
+     "family": "headings",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "headings-stacked-headings::a note title that wraps",
+     "family": "headings",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "diagrams-geographic-maps::a map that is entirely data, with no printed key",
+     "family": "images-diagrams",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: 'Observed 24-hour Precipitation'; missing tokens: ['24-hour', 'Observed', 'Precipitation']",
+     "error": null
+    },
+    {
+     "sample": "diagrams-geographic-maps::a real map with a printed legend",
+     "family": "images-diagrams",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: 'PFAS Airborne Transport Found Near Caldrivane Chemical Facility'; missing tokens: ['Airborne', 'Caldrivane', 'Chemical', 'Facility', 'Found', 'Near']",
+     "error": null
+    },
+    {
+     "sample": "diagrams-geographic-maps::a shaded rate map",
+     "family": "images-diagrams",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "images-logos::a corner wordmark and a background mark",
+     "family": "images-diagrams",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "layout-block-boundaries::block-picture-boundary",
+     "family": "layout",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": "parse failed: UnidentifiedImageError: cannot identify image file '/tmp/dpp-src/protocol/_attachments/layout/block-picture-boundary.svg'"
+    },
+    {
+     "sample": "layout-block-boundaries::block-table-caption-excluded",
+     "family": "layout",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": "parse failed: UnidentifiedImageError: cannot identify image file '/tmp/dpp-src/protocol/_attachments/layout/block-table-caption-excluded.svg'"
+    },
+    {
+     "sample": "layout-block-classes::block-footnote-formula",
+     "family": "layout",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: 'Maximum Overlap (MaxOv) methods. 17 A method similar to the Halberg sampling algorithm performs reweighting in NESS for small systems like birth-death chains. 18 A related method based on trajectory reweighting is expected to scale to NESS systems, 19 however these'; missing tokens: ['(MaxOv)', '17', '18', '19', 'A', 'A']",
+     "error": "parse failed: UnidentifiedImageError: cannot identify image file '/tmp/dpp-src/protocol/_attachments/layout/block-footnote-formula.svg'"
+    },
+    {
+     "sample": "layout-block-classes::block-section-list",
+     "family": "layout",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: 'se chain'; missing tokens: ['chain', 'se']",
+     "error": "parse failed: UnidentifiedImageError: cannot identify image file '/tmp/dpp-src/protocol/_attachments/layout/block-section-list.svg'"
+    },
+    {
+     "sample": "layout-ignoring-and-rejecting::a scan mark that is not content",
+     "family": "layout",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: 'CALDRIVANE ENERGY CORP.'; missing tokens: ['CALDRIVANE', 'CORP.', 'ENERGY']",
+     "error": null
+    },
+    {
+     "sample": "layout-ignoring-and-rejecting::dense but readable",
+     "family": "layout",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "layout-pleading-line-numbers::the numbered margin on a complaint",
+     "family": "layout",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: 'UNITED STATES DISTRICT COURT'; missing tokens: ['COURT', 'DISTRICT', 'STATES', 'UNITED']",
+     "error": null
+    },
+    {
+     "sample": "layout-slide-furniture::a map behind the text",
+     "family": "layout",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "tables-accounting-number-formats::entwick",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "tables-bands-inside-the-grid::earn",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "tables-blank-and-spacer-rows::ert",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "tables-bold-and-italic-inside-tables::spa",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "tables-bottom-edge-totals-and-islands::2tab",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "tables-color-as-the-value::sample-0",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "tables-empty-pre-printed-grids::xx",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "tables-header-wrap-vs-real-tier::2linebug",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "tables-header-wrap-vs-real-tier::ed",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "tables-marks-and-symbols-in-cells::du",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "tables-multi-row-header-tiers::5lineperrow",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "tables-nested-tables::korean-curriculum",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "tables-record-groups-and-multi-line-cells::we",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "tables-rotated-and-diagonal-content::a landscape page in a portrait document",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "tables-row-label-hierarchy::sssa",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "tables-sec-period-tiers::wdb",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "tables-side-by-side-mini-tables::waw",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "tables-struck-and-replaced-values::an interlineated court rule",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: \"(4) ~~\\\\[Deleted.\\\\]~~ Unless otherwise agreed to by the parties or otherwise provided by court order or by law, only the witness, the parties, their respective counsel including such counsel's staff, experts identified pursuant to Rule 4:1(b)(4)(A), and those involved with the administration of the deposition (such as court reporters and translators) may attend the deposition, given the private nature of discovery. Counsel of record for the parties and counsel for any non-party deponent must timely confer regarding any other person's attendance at a deposition\"; missing tokens: ['(4)', '(such', '4:1(b)(4)(A),', 'Counsel', 'Rule', 'Unless']",
+     "error": null
+    },
+    {
+     "sample": "tables-titles-banners-captions::a title printed in the corner cell",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "tables-total-and-subtotal-rows::a total row with no label at all",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "text-iconography-and-symbols::icons standing in for labels",
+     "family": "text",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: 'PAGE 1 [address] 7 Merevald Circle NW Suite 400 Harrowgate, BV 20036 [phone] 202-555-0180 [web] halvernwlc.example'; missing tokens: ['1', '20036', '202-555-0180', '400', '7', 'BV']",
+     "error": null
+    },
+    {
+     "sample": "text-iconography-and-symbols::sample-0",
+     "family": "text",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "text-margin-banners::a brand line on a slide",
+     "family": "text",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "text-overlapping-text::two filing stamps over a print header",
+     "family": "text",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: '[stamp: FILED]'; missing tokens: ['FILED]', '[stamp:']",
+     "error": null
+    },
+    {
+     "sample": "text-redacted-text::a redaction bar inside a sentence",
+     "family": "text",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: 'HAVING SEEN the electronic file formed on account of the appeal for review 04871/OTAIP/AR/2018 filed by [REDACTED] , against the response of the Municipal Council of Puente Alvara, the following resolution is hereby issued.'; missing tokens: [',', '04871/OTAIP/AR/2018', 'Alvara,', 'Council', 'HAVING', 'Municipal']",
+     "error": null
+    },
+    {
+     "sample": "text-watermarks::a diagonal stamp across a pay stub",
+     "family": "text",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    }
+   ]
+  },
+  "docling": {
+   "summary": {
+    "overall": {
+     "n": 71,
+     "passed": 1,
+     "rate": 0.014084507042253521
+    },
+    "by_family": {
+     "charts": {
+      "n": 14,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "document": {
+      "n": 3,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "forms": {
+      "n": 8,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "headings": {
+      "n": 8,
+      "passed": 1,
+      "rate": 0.125
+     },
+     "images-diagrams": {
+      "n": 4,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "layout": {
+      "n": 8,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables": {
+      "n": 20,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "text": {
+      "n": 6,
+      "passed": 0,
+      "rate": 0.0
+     }
+    },
+    "by_rule": {
+     "charts-bars-and-histograms": {
+      "n": 2,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "charts-dual-axis-and-combo-charts": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "charts-gantt-and-sankey-charts": {
+      "n": 2,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "charts-labels": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "charts-line-charts": {
+      "n": 2,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "charts-scatter-and-error-bars": {
+      "n": 4,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "charts-stacked-bars-and-waterfalls": {
+      "n": 2,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "diagrams-geographic-maps": {
+      "n": 3,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "forms-blanks-inside-sentences": {
+      "n": 2,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "forms-checklists": {
+      "n": 2,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "forms-fill-ins": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "forms-forms-and-key-value-regions": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "forms-printed-buttons-and-placeholders": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "forms-tables-inside-forms": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "headings-numbered-section-headings": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "headings-recognising-ambiguous-headings": {
+      "n": 6,
+      "passed": 1,
+      "rate": 0.16666666666666666
+     },
+     "headings-stacked-headings": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "images-logos": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "layout-block-boundaries": {
+      "n": 2,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "layout-block-classes": {
+      "n": 2,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "layout-ignoring-and-rejecting": {
+      "n": 2,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "layout-pleading-line-numbers": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "layout-slide-furniture": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-accounting-number-formats": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-bands-inside-the-grid": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-blank-and-spacer-rows": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-bold-and-italic-inside-tables": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-bottom-edge-totals-and-islands": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-color-as-the-value": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-cross-page-tables": {
+      "n": 3,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-empty-pre-printed-grids": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-header-wrap-vs-real-tier": {
+      "n": 2,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-marks-and-symbols-in-cells": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-multi-row-header-tiers": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-nested-tables": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-record-groups-and-multi-line-cells": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-rotated-and-diagonal-content": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-row-label-hierarchy": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-sec-period-tiers": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-side-by-side-mini-tables": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-struck-and-replaced-values": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-titles-banners-captions": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "tables-total-and-subtotal-rows": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "text-iconography-and-symbols": {
+      "n": 2,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "text-margin-banners": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "text-overlapping-text": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "text-redacted-text": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     },
+     "text-watermarks": {
+      "n": 1,
+      "passed": 0,
+      "rate": 0.0
+     }
+    }
+   },
+   "samples": [
+    {
+     "sample": "charts-bars-and-histograms::catastrophe-review-2025_p4",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "charts-bars-and-histograms::goal cards with progress bars",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "charts-dual-axis-and-combo-charts::industrial-group-financial-report-2024_p15",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "charts-gantt-and-sankey-charts::Sample (constructed) \u2014 `make_gantt`",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "charts-gantt-and-sankey-charts::material-flows-2020_p4",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "charts-labels::mobility-survey-2024_p13",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "charts-line-charts::energy-outlook-2025_p20",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "charts-line-charts::health-workforce-2024_p45",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "charts-scatter-and-error-bars::Sample (constructed) \u2014 `make_scatter`",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "charts-scatter-and-error-bars::ac8b3538-en_p131",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "charts-scatter-and-error-bars::db242_p2",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "charts-scatter-and-error-bars::health-profile-europe-2024_p105",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "charts-stacked-bars-and-waterfalls::renewables-outlook-2025_p24",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "charts-stacked-bars-and-waterfalls::stacked bars with an annotation column",
+     "family": "charts",
+     "passed": false,
+     "first_diff": "table_structure: grid dimensions differ: expected 4x3, got 4x4",
+     "error": null
+    },
+    {
+     "sample": "tables-cross-page-tables::a cell cut by the page break",
+     "family": "document",
+     "passed": false,
+     "first_diff": "table_content: cell (1,2): expected 'The Budget restructures OCWS to concentrate its work on the systems that serve the most residents. Over the last decade, the Office has taken on a growing portfolio of small, overlapping grants that are costly to administer and difficult to evaluate. An internal review found that many awards were made without clear performance targets, and that a number of grantees could not show how funds had been used. The Budget proposes to consolidate these grants into three focus areas: drinking-water treatment upgrades, stormwater and flood resilience, and lead service line replacement. Each focus area would carry measurable outcomes and a public progress report. The Budget also ends funding for the Estuary Demonstration Program (-$212 million), which has not produced results that could be applied elsewhere, the Harbor Monitoring Pilot (-$88 million), the Regional Water Planning Councils (-$140 million), and the Small Systems Outreach Network (-$176 million). Technical assistance now delivered through these programs would be offered through the three focus areas instead, so that communities apply once rather than several times. The Budget maintains $9 billion for capital grants to water and wastewater utilities.', got 'The Budget restructures OCWS to concentrate its work on the systems that serve the most residents. Over the last decade, the Office has taken on a growing portfolio of small, overlapping grants that are costly to administer and difficult to evaluate. An internal review found that many awards were made without clear performance targets, and that a number of grantees could not show ons s os as os oo s oooesd s s o s as drinking-water treatment upgrades, stormwater and flood resilience, and lead service line replacement. Each focus area would carry measurable outcomes and a public progress report. The Budget also ends funding for the Estuary Demonstration Program (-$212 million), which has not produced results that could be applied elsewhere, the Harbor Monitoring Pilot (-$88 million), the Regional Water Planning Councils (-$140 million), and the Small Systems Outreach Network (-$176 million). Technical assistance now delivered through these programs would be offered through the three focus areas instead, so that communities apply once rather than several times. The Budget maintains $9 billion for capital grants to water and wastewater utilities.'",
+     "error": null
+    },
+    {
+     "sample": "tables-cross-page-tables::a two-column comparison table continued from the previous page",
+     "family": "document",
+     "passed": false,
+     "first_diff": "table_content: cell (1,1): expected '(a)(3), other pretrial disclosures; and (f), mandatory meeting before a scheduling conference. (3) Procedural Order. In issuing any procedural order under this subdivision (c), the court must give the parties notice and a reasonable opportunity to comply. (4) Perpetuating Testimony. An entity desiring to perpetuate testimony may do so in the manner provided by Rule 7027 for taking a deposition before an adversary proceeding.', got '(a)(3), other pretrial disclosures; and (f), mandatory meeting before a scheduling conference. (3) Procedural Order. In issuing any procedural order under this subdivision (c), the court must give the parties notice and a reasonable opportunity to comply. (4) Perpetuating Testimony. An entity desiring to perpetuate testimony may do so in the manner provided by Rule 7027 for taking a deposition'",
+     "error": null
+    },
+    {
+     "sample": "tables-cross-page-tables::dt2",
+     "family": "document",
+     "passed": false,
+     "first_diff": "table_structure: header pattern or span structure differs (headers equal: False, spans equal: True, levels equal: True)",
+     "error": null
+    },
+    {
+     "sample": "forms-blanks-inside-sentences::blanks inside bulleted sentences",
+     "family": "forms",
+     "passed": false,
+     "first_diff": "table_structure: grid dimensions differ: expected 3x3, got 3x2",
+     "error": null
+    },
+    {
+     "sample": "forms-blanks-inside-sentences::captions printed under the line",
+     "family": "forms",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: '6. Did you and the other witness(es) sign this paper in the presence of the decedent? Ans. [blank]'; missing tokens: ['[blank]']",
+     "error": null
+    },
+    {
+     "sample": "forms-checklists::a filing checklist",
+     "family": "forms",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: 'PC420 | 0116'; missing tokens: ['0116', 'PC420', '|']",
+     "error": null
+    },
+    {
+     "sample": "forms-checklists::nine checklists in a grid",
+     "family": "forms",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "forms-fill-ins::spreadsheet errors as printed values",
+     "family": "forms",
+     "passed": false,
+     "first_diff": "table_structure: header pattern or span structure differs (headers equal: False, spans equal: False, levels equal: False)",
+     "error": null
+    },
+    {
+     "sample": "forms-forms-and-key-value-regions::2linebug",
+     "family": "forms",
+     "passed": false,
+     "first_diff": "table_structure: grid dimensions differ: expected 8x7, got 7x5",
+     "error": null
+    },
+    {
+     "sample": "forms-printed-buttons-and-placeholders::a web page printed to paper",
+     "family": "forms",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: '2/13/26, 11:17 AM'; missing tokens: ['11:17', '2/13/26,', 'AM']",
+     "error": null
+    },
+    {
+     "sample": "forms-tables-inside-forms::a self-certification form built from grids",
+     "family": "forms",
+     "passed": false,
+     "first_diff": "table_structure_0: grid dimensions differ: expected 7x3, got 8x6",
+     "error": null
+    },
+    {
+     "sample": "headings-numbered-section-headings::a paragraph number on its own line",
+     "family": "headings",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: \"29. As a direct and proximate result of Defendant Harlan Office Supply Co.'s breach of the Purchase Agreement described above, Plaintiff Midvale Clinic LLC was unable to furnish its new waiting room in time for its scheduled opening and was forced to delay the opening by six weeks.\"; missing tokens: ['opening']",
+     "error": null
+    },
+    {
+     "sample": "headings-recognising-ambiguous-headings::document titles and company lines 2",
+     "family": "headings",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: 'BORVIKA LLC'; missing tokens: ['BORVIKA']",
+     "error": null
+    },
+    {
+     "sample": "headings-recognising-ambiguous-headings::repeated item labels 1",
+     "family": "headings",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: 'INTERROGATORY NO. 8:'; missing tokens: ['NO.']",
+     "error": null
+    },
+    {
+     "sample": "headings-recognising-ambiguous-headings::running headers and decorative marks 1",
+     "family": "headings",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: 'Consolidated Financial Statements'; missing tokens: ['Consolidated', 'Financial', 'Statements']",
+     "error": null
+    },
+    {
+     "sample": "headings-recognising-ambiguous-headings::standalone subheads 2",
+     "family": "headings",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: '\u2026primarily as a result of increased utilisation of wholesale credit protection vehicles, which has now been curtailed.'; missing tokens: ['\u2026primarily']",
+     "error": null
+    },
+    {
+     "sample": "headings-recognising-ambiguous-headings::standalone subheads 4",
+     "family": "headings",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: '\u2026related Disclosures have been issued but not yet endorsed by the UK authorities. We will continue to monitor new disclosure requirements and update our disclosures as part of the TCFD reporting where relevant.'; missing tokens: ['update', '\u2026related']",
+     "error": null
+    },
+    {
+     "sample": "headings-recognising-ambiguous-headings::table captions and bands 5",
+     "family": "headings",
+     "passed": true,
+     "first_diff": "",
+     "error": null
+    },
+    {
+     "sample": "headings-stacked-headings::a note title that wraps",
+     "family": "headings",
+     "passed": false,
+     "first_diff": "table_structure: grid dimensions differ: expected 16x5, got 15x5",
+     "error": null
+    },
+    {
+     "sample": "diagrams-geographic-maps::a map that is entirely data, with no printed key",
+     "family": "images-diagrams",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: 'Observed 24-hour Precipitation'; missing tokens: ['24-hour', 'Observed', 'Precipitation']",
+     "error": null
+    },
+    {
+     "sample": "diagrams-geographic-maps::a real map with a printed legend",
+     "family": "images-diagrams",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: 'Aerial map of a well network around a grey building labelled \"Facility\". Twelve wells are plotted as coloured dots around the building: four in the Non-detect (ND) colour, two Detected - 40, two 40 - 100, two 100 - 200, one 200 - 450 and one > 450. A callout from the > 450 well, just below the building, reads 610 ng/l. A scale bar in the lower left is labelled 0.5 mi.'; missing tokens: ['\"Facility\".', '(ND)', '-', '-', '-', '0.5']",
+     "error": null
+    },
+    {
+     "sample": "diagrams-geographic-maps::a shaded rate map",
+     "family": "images-diagrams",
+     "passed": false,
+     "first_diff": "table_content: cell (0,1): expected 'Prevalenza (%) di sovrappeso e obesit\u00e0', got ''",
+     "error": null
+    },
+    {
+     "sample": "images-logos::a corner wordmark and a background mark",
+     "family": "images-diagrams",
+     "passed": false,
+     "first_diff": "table_structure: header pattern or span structure differs (headers equal: False, spans equal: True, levels equal: False)",
+     "error": null
+    },
+    {
+     "sample": "layout-block-boundaries::block-picture-boundary",
+     "family": "layout",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": "parse failed: docling.exceptions.ConversionError: Conversion failed for: block-picture-boundary.svg with status: skipped. Errors: File format not allowed: block-picture-boundary.svg"
+    },
+    {
+     "sample": "layout-block-boundaries::block-table-caption-excluded",
+     "family": "layout",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": "parse failed: docling.exceptions.ConversionError: Conversion failed for: block-table-caption-excluded.svg with status: skipped. Errors: File format not allowed: block-table-caption-excluded.svg"
+    },
+    {
+     "sample": "layout-block-classes::block-footnote-formula",
+     "family": "layout",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: 'Maximum Overlap (MaxOv) methods. 17 A method similar to the Halberg sampling algorithm performs reweighting in NESS for small systems like birth-death chains. 18 A related method based on trajectory reweighting is expected to scale to NESS systems, 19 however these'; missing tokens: ['(MaxOv)', '17', '18', '19', 'A', 'A']",
+     "error": "parse failed: docling.exceptions.ConversionError: Conversion failed for: block-footnote-formula.svg with status: skipped. Errors: File format not allowed: block-footnote-formula.svg"
+    },
+    {
+     "sample": "layout-block-classes::block-section-list",
+     "family": "layout",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: 'se chain'; missing tokens: ['chain', 'se']",
+     "error": "parse failed: docling.exceptions.ConversionError: Conversion failed for: block-section-list.svg with status: skipped. Errors: File format not allowed: block-section-list.svg"
+    },
+    {
+     "sample": "layout-ignoring-and-rejecting::a scan mark that is not content",
+     "family": "layout",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: 'INTEROFFICE MEMORANDUM'; missing tokens: ['INTEROFFICE', 'MEMORANDUM']",
+     "error": null
+    },
+    {
+     "sample": "layout-ignoring-and-rejecting::dense but readable",
+     "family": "layout",
+     "passed": false,
+     "first_diff": "table_structure: header pattern or span structure differs (headers equal: False, spans equal: False, levels equal: True)",
+     "error": null
+    },
+    {
+     "sample": "layout-pleading-line-numbers::the numbered margin on a complaint",
+     "family": "layout",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: 'Case No. 3:26-cv-04471 FIRST AMENDED COMPLAINT'; missing tokens: ['3:26-cv-04471', 'FIRST']",
+     "error": null
+    },
+    {
+     "sample": "layout-slide-furniture::a map behind the text",
+     "family": "layout",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: '- Q1 2026: \u20ac240m +2.2% +6.7% LFL'; missing tokens: ['2026:']",
+     "error": null
+    },
+    {
+     "sample": "tables-accounting-number-formats::entwick",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_structure: header pattern or span structure differs (headers equal: False, spans equal: True, levels equal: False)",
+     "error": null
+    },
+    {
+     "sample": "tables-bands-inside-the-grid::earn",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_structure: grid dimensions differ: expected 13x5, got 12x5",
+     "error": null
+    },
+    {
+     "sample": "tables-blank-and-spacer-rows::ert",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_structure: grid dimensions differ: expected 9x3, got 9x12",
+     "error": null
+    },
+    {
+     "sample": "tables-bold-and-italic-inside-tables::spa",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_content: cell (1,0): expected 'ZENTOVI\u00ae (larotanib)+ VESTOVI\u00ae (kalitrafenib) 1', got 'ZENTOVI\u00ae (larotanib)+ VESTOVI\u00ae (kalitrafenib)1'",
+     "error": null
+    },
+    {
+     "sample": "tables-bottom-edge-totals-and-islands::2tab",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_structure: grid dimensions differ: expected 12x8, got 9x8",
+     "error": null
+    },
+    {
+     "sample": "tables-color-as-the-value::sample-0",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_structure: header pattern or span structure differs (headers equal: False, spans equal: False, levels equal: False)",
+     "error": null
+    },
+    {
+     "sample": "tables-empty-pre-printed-grids::xx",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_structure: grid dimensions differ: expected 13x32, got 1x1",
+     "error": null
+    },
+    {
+     "sample": "tables-header-wrap-vs-real-tier::2linebug",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_structure: grid dimensions differ: expected 8x6, got 7x5",
+     "error": null
+    },
+    {
+     "sample": "tables-header-wrap-vs-real-tier::ed",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_content: cell (1,3): expected '[yes]', got ''",
+     "error": null
+    },
+    {
+     "sample": "tables-marks-and-symbols-in-cells::du",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_content: cell (0,0): expected '\uc9c0 \uc218', got '\u5218\u5348'",
+     "error": null
+    },
+    {
+     "sample": "tables-multi-row-header-tiers::5lineperrow",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_structure: grid dimensions differ: expected 14x13, got 11x13",
+     "error": null
+    },
+    {
+     "sample": "tables-nested-tables::korean-curriculum",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_structure: grid dimensions differ: expected 11x4, got 10x4",
+     "error": null
+    },
+    {
+     "sample": "tables-record-groups-and-multi-line-cells::we",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_structure: grid dimensions differ: expected 16x4, got 12x4",
+     "error": null
+    },
+    {
+     "sample": "tables-rotated-and-diagonal-content::a landscape page in a portrait document",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_structure_0: grid dimensions differ: expected 11x9, got 5x17",
+     "error": null
+    },
+    {
+     "sample": "tables-row-label-hierarchy::sssa",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_structure: grid dimensions differ: expected 8x9, got 7x9",
+     "error": null
+    },
+    {
+     "sample": "tables-sec-period-tiers::wdb",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_structure: header pattern or span structure differs (headers equal: False, spans equal: False, levels equal: False)",
+     "error": null
+    },
+    {
+     "sample": "tables-side-by-side-mini-tables::waw",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_structure: grid dimensions differ: expected 11x10, got 7x10",
+     "error": null
+    },
+    {
+     "sample": "tables-struck-and-replaced-values::an interlineated court rule",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: \"(4) ~~\\\\[Deleted.\\\\]~~ Unless otherwise agreed to by the parties or otherwise provided by court order or by law, only the witness, the parties, their respective counsel including such counsel's staff, experts identified pursuant to Rule 4:1(b)(4)(A), and those involved with the administration of the deposition (such as court reporters and translators) may attend the deposition, given the private nature of discovery. Counsel of record for the parties and counsel for any non-party deponent must timely confer regarding any other person's attendance at a deposition\"; missing tokens: ['~~\\\\[Deleted.\\\\]~~']",
+     "error": null
+    },
+    {
+     "sample": "tables-titles-banners-captions::a title printed in the corner cell",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_structure: grid dimensions differ: expected 8x4, got 6x4",
+     "error": null
+    },
+    {
+     "sample": "tables-total-and-subtotal-rows::a total row with no label at all",
+     "family": "tables",
+     "passed": false,
+     "first_diff": "table_structure: grid dimensions differ: expected 6x3, got 5x3",
+     "error": null
+    },
+    {
+     "sample": "text-iconography-and-symbols::icons standing in for labels",
+     "family": "text",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: 'PAGE 1 [address] 7 Merevald Circle NW Suite 400 Harrowgate, BV 20036 [phone] 202-555-0180 [web] halvernwlc.example'; missing tokens: ['1', '20036', '202-555-0180', '400', '7', 'BV']",
+     "error": null
+    },
+    {
+     "sample": "text-iconography-and-symbols::sample-0",
+     "family": "text",
+     "passed": false,
+     "first_diff": "table_present: expected a table; candidate has none",
+     "error": null
+    },
+    {
+     "sample": "text-margin-banners::a brand line on a slide",
+     "family": "text",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: 'PRECISION & MOTION'; missing tokens: ['&', 'MOTION', 'PRECISION']",
+     "error": null
+    },
+    {
+     "sample": "text-overlapping-text::two filing stamps over a print header",
+     "family": "text",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: '[stamp: FILED]'; missing tokens: ['FILED]', '[stamp:']",
+     "error": null
+    },
+    {
+     "sample": "text-redacted-text::a redaction bar inside a sentence",
+     "family": "text",
+     "passed": false,
+     "first_diff": "text_content: line not preserved: 'HAVING SEEN the electronic file formed on account of the appeal for review 04871/OTAIP/AR/2018 filed by [REDACTED] , against the response of the Municipal Council of Puente Alvara, the following resolution is hereby issued.'; missing tokens: ['[REDACTED]']",
+     "error": null
+    },
+    {
+     "sample": "text-watermarks::a diagonal stamp across a pay stub",
+     "family": "text",
+     "passed": false,
+     "first_diff": "table_structure: header pattern or span structure differs (headers equal: False, spans equal: True, levels equal: True)",
+     "error": null
+    }
+   ]
+  }
+ }
+}
