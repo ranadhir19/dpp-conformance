@@ -16,6 +16,10 @@ component that names the violation.
 > DPP is LlamaIndex's work, not this project's. Credit, licences and
 > what material is included here and why: [ATTRIBUTION.md](ATTRIBUTION.md).
 
+## Watch it built
+
+Built by the presenter of **[The Architect's AI Workshop](https://www.youtube.com/@ArchitectsAIWorkshop)** — the channel where AI systems are taken apart from *first principles on the whiteboard, built live in the editor, measured honestly*.
+
 ## Measured results
 
 Benchmark: the deterministic subset of DPP samples defined in
